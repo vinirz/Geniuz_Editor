@@ -31,7 +31,7 @@ function App() {
     const documentDefinition = { content: [] };
     documentDefinition.content.push(pdfContent);
 
-    pdfMake.createPdf(documentDefinition).open();
+    pdfMake.createPdf(documentDefinition).download();
   };
 
 
