@@ -4,7 +4,7 @@ import ReactQuill from 'react-quill';
 import { useState } from 'react';
 import './App.css'
 
-import pdfFonts from 'pdfmake/build/vfs_fonts';
+import * as pdfFonts from 'pdfmake/build/vfs_fonts';
 import htmlToPdfmake from 'html-to-pdfmake';
 import pdfMake from 'pdfmake/build/pdfmake';
 
