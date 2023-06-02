@@ -17,7 +17,7 @@ Para executar o projeto localmente, siga os seguintes passos:
   
 ## Tecnologias utilizadas
 
-O site Impulsiona foi desenvolvido utilizando as seguintes tecnologias:
+O geniuz editor foi desenvolvido utilizando as seguintes tecnologias:
 
 - React Quill
 - Vercel
